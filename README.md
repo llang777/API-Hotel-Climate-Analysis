@@ -1,2 +1,2 @@
 # python-api-challenge
-Code contains start code provided and analyzes global weather and hotel locations
+Code analyzes global weather and hotel locations utilizing API and Python within a Jupyter Notebook enviorment. (Contains the required starter code.)
