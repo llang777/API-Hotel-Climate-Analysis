@@ -1,5 +1,5 @@
-# python-API
-Code analyzes global weather and hotel locations utilizing API and Python within a Jupyter Notebook enviorment.
+# Hotel Climate Analysis
+Code analyzes global weather and hotel locations utilizing API and Python within a Jupyter Notebook enviorment. 
 
 ![Fig1](https://github.com/llang777/python-API/assets/146140759/b04c7f41-4213-4b2a-8b57-0f59ef35a50c)
 
